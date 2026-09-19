@@ -13,7 +13,7 @@ Subject to change.
 
 ## How to test.
 
-Subject to change
+Subject to change.
 
 ## External hardware
 
