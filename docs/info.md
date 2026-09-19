@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Subject to change.
+Subject to change
 
 ## How to test.
 
-Subject to change.
+Subject to change
 
 ## External hardware
 
-Subject to change.
+Subject to change
